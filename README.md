@@ -1,2 +1,3 @@
-# hrithikrtiwari
-Hrithik Tiwari
+## Profile
+🧾Hrithik Tiwari
+📍Location: Mumbai,India

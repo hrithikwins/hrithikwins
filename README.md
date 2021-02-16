@@ -9,8 +9,8 @@ Getting prepared for the ocean of opportunities waiting.
  
 <p>
 <p>
-<img align="left" width="50%" height="100" src="front-end-tech/angular.jpeg" style="display:inline">
-<img align="right" src="front-end-tech/blazor.jpeg" width="50%" height="100" alt="failed to load" style="display:inline">
+<img align="left" width="49%" height="100" src="front-end-tech/angular.jpeg" style="display:inline">
+<img align="right" src="front-end-tech/blazor.jpeg" width="49%" height="100" alt="failed to load" style="display:inline">
 </p>
 <br/>
 <p>

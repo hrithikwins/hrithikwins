@@ -3,8 +3,8 @@ Prepared for the ocean of opportunities waiting.
 
 ## Web Development
 
-<img align="left" width="50%" height="100" src="front-end-tech/angular.jpeg">
-<img align="right" src="front-end-tech/blazor.jpeg" width="50%" height="100" alt="failed to load">
+<img width="50%" height="100" src="front-end-tech/angular.jpeg" style="display:inline">
+<img src="front-end-tech/blazor.jpeg" width="50%" height="100" alt="failed to load" style="display:inline">
 <br/>
 <img src="front-end-tech/gatsby.jpeg" width="100" height="50" alt="failed to load">
 <img src="front-end-tech/javascript.jpeg" width="100" height="50" alt="failed to load">

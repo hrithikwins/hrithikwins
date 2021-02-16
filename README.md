@@ -2,7 +2,7 @@
 Prepared for the ocean of opportunities waiting.
 
 ## Web Development
-<img width="500" height="400" src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/angular.jpeg" alt="some text">
+<img width="500" height="400" src="front-end-tech/angular.jpeg">
 <br/>
 <img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/blazor.jpeg" width="500" height="400" alt="failed to load">
 <br/>

@@ -1,5 +1,5 @@
 # Hrithik Tiwari - Working with Vision
-Getting myself prepared for the ocean of opportunities waiting for me.
+Prepared for the ocean of opportunities waiting.
 
 ## Web Development
 <img width="500" height="400" src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/angular.jpeg" alt="some text">

@@ -8,7 +8,8 @@ Support Small Businesses and help them influence the market positively.
 ### Support System
 I am very thankful to my parents for a good upbringing and all my teachers for filling me up with vast ocean of knowledge. Also my friends for encouraging me to take up good initiatives and supporting me in every aspect of life this helps me to be self-motivated and keeps me going higher.
 <hr/>
-## Education
+
+### Education
 - Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th): 
   - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
   - Passed out 10th with distinction (9.8 CGPA)

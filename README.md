@@ -2,26 +2,20 @@
 Prepared for the ocean of opportunities waiting.
 
 ## Web Development
-<img width="500" height="400" src="front-end-tech/angular.jpeg">
+<img width="200" height="100" src="front-end-tech/angular.jpeg">
+<img src="front-end-tech/blazor.jpeg" width="200" height="100" alt="failed to load">
 <br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/blazor.jpeg" width="500" height="400" alt="failed to load">
+<img src="front-end-tech/gatsby.jpeg" width="200" height="100" alt="failed to load">
+<img src="front-end-tech/javascript.jpeg" width="200" height="100" alt="failed to load">
 <br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/gatsby.jpeg" width="500" height="400" alt="failed to load">
+<img src="front-end-tech/next.jpeg" width="200" height="100" alt="failed to load">
+<img src="front-end-tech/reactjs.jpeg" width="200" height="100" alt="failed to load">
 <br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/javascript.jpeg" width="500" height="400" alt="failed to load">
+<img src="front-end-tech/svelte.jpeg" width="200" height="100" alt="failed to load">
+<img src="front-end-tech/typescript.jpeg" width="200" height="100" alt="failed to load">
 <br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/next.jpeg" width="500" height="400" alt="failed to load">
-<br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/node.jpeg" width="500" height="400" alt="failed to load">
-<br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/reactjs.jpeg" width="500" height="400" alt="failed to load">
-<br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/svelte.jpeg" width="500" height="400" alt="failed to load">
-<br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/typescript.jpeg" width="500" height="400" alt="failed to load">
-<br/>
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/font-end-tech/vue.jpeg" width="500" height="400" alt="failed to load">
+<img src="front-end-tech/vue.jpeg" width="200" height="100" alt="failed to load">
 
 
 ## Backend
-<img src="https://github.com/hrithikrtiwari/hrithikrtiwari/blob/master/express.jpeg" width="500" height="400" alt="failed to load">
+<img src="express.jpeg" width="200" height="100" alt="failed to load">

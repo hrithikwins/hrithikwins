@@ -2,13 +2,6 @@
 
 Getting prepared for the ocean of opportunities waiting. -->
 
-### My Aim
-Support Small Businesses and help them influence the market positively.
-
-### Support System
-I am very thankful to my parents for a good upbringing and all my teachers for filling me up with vast ocean of knowledge. Also my friends for encouraging me to take up good initiatives and supporting me in every aspect of life this helps me to be self-motivated and keeps me going higher.
-<hr/>
-
 ### Education
 - Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th): 
   - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
@@ -39,14 +32,26 @@ I am very thankful to my parents for a good upbringing and all my teachers for f
     - Biology and Geometry for 9 & 10(state board)
 - <b>Swift Media Labs</b>: October 2020 to Present
 
+
+
+
+### My Aim
+Support Small Businesses and help them influence the market positively.
 (Updating more contents soon)
-<!-- ## Projects
 
 
+### Projects
+- bbindustriesfamily.in
+- medical.wekex.com
+- novioapp.com
+- heavenhillagroresort.com
+- shalya-natural.vercel.app
+- atulya-music.web.app
+- swiftmedialabs.com
+- amarathletics.com
 
-## Skills -->
-<!-- <p>
-<p color="#8888aa">
+<!--### Skills 
+## `API Development`
 API stands for Application Programming Interface. My API scope is limited to developing for Web, Mobile and Desktop Applications.
 <details>
 <summary>
@@ -89,7 +94,7 @@ Web API Development
 </p>
 <br/>
 </p>
-         </detail>
+ </detail>
 
 <br/>
 <br/>

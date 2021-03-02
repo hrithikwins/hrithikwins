@@ -30,8 +30,10 @@ Getting prepared for the ocean of opportunities waiting. -->
     - Maths, Science, Social Studies, English, Marathi, Hindi for 7 & 8 (state board)
     - English Grammar, Social Science and Maths for 8 & 9 (CBSE board)
     - Biology and Geometry for 9 & 10(state board)
+- <b>Wekex.com Agency</b> (March 2020 to September 2020)
+    - Junior Android Developer
+    - Developed Novio App for Salon Appointment Booking
 - <b>Swift Media Labs</b>: October 2020 to Present
-
 
 
 

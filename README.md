@@ -2,21 +2,6 @@
 
 Getting prepared for the ocean of opportunities waiting. -->
 
-### Education
-- Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th): 
-  - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
-  - Passed out 10th with distinction (9.8 CGPA)
-  - Passed out 12th PCM ith Fairly good marks
-- Bachelors From Mumbai University in Information Technology (B.Sc.IT)
-    - June 2018 to May 2021
-<br/>
-
-### School Achievements
-- Two Times Rank Holder in Science Talent Search Examination (STSE held as Interschool Science Quiz)
-- 2nd Prize for Learning 118 Elements of Periodic Table Competition.
-- 1st Prize in Slow Cycling Race in 2018 Chinmaya Sports Events
-
-
 <hr/>
 
 ## Work Experience
@@ -51,6 +36,8 @@ Support Small Businesses and help them influence the market positively.
 - atulya-music.web.app
 - swiftmedialabs.com
 - amarathletics.com
+
+
 
 <!--### Skills 
 ## `API Development`
@@ -124,3 +111,20 @@ Web API Development
 ## Backend
 
 <img src="express.jpeg" width="50%" height="100" alt="failed to load"> -->
+
+
+
+### Education
+- Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th): 
+  - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
+  - Passed out 10th with distinction (9.8 CGPA)
+  - Passed out 12th PCM ith Fairly good marks
+- Bachelors From Mumbai University in Information Technology (B.Sc.IT)
+    - June 2018 to May 2021
+<br/>
+
+### School Achievements
+- Two Times Rank Holder in Science Talent Search Examination (STSE held as Interschool Science Quiz)
+- 2nd Prize for Learning 118 Elements of Periodic Table Competition.
+- 1st Prize in Slow Cycling Race in 2018 Chinmaya Sports Events
+

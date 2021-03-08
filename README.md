@@ -18,6 +18,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 - <b>Wekex.com Agency</b> (March 2020 to September 2020)
     - Junior Android Developer
     - Developed Novio App for Salon Appointment Booking
+    - Worked on Medical Invoicing Web Application made with Angular 9/10
 - <b>Swift Media Labs</b>: October 2020 to Present
 
 

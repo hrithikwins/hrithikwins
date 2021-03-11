@@ -4,6 +4,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik Tiwari" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en" alt="hrithikrtiwari" /></p>
 <hr color="red" background="green"/>
 
 ## Current Roles
@@ -15,22 +16,6 @@ Getting prepared for the ocean of opportunities waiting. -->
 - <b>Flutter freelance developer</b>
 - <b>React/Nextjs/Angular10/Vue/Nuxtjs/Svelte/Sapper freelance development</b>
 
-
-## Work Experience
-- <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
-    - Network Administration
-    - On-Site Wifi Installation & switches and Hub troubleshooting
-    - Spicing and Slicing (Optical Fibre)
-    - Crimping (LAN Cable)
-- <b>Giri Tutorials, Boisar</b> (August 2018 to April 2019)
-    - Teacher for classes 7 to 10
-    - Maths, Science, Social Studies, English, Marathi, Hindi for 7 & 8 (state board)
-    - English Grammar, Social Science and Maths for 8 & 9 (CBSE board)
-    - Biology and Geometry for 9 & 10(state board)
-- <b>Wekex.com Agency</b> (March 2020 to September 2020)
-    - Junior Android Developer
-    - Developed Novio App for Salon Appointment Booking
-    - Worked on Medical Invoicing Web Application made with Angular 9/10
 
 
 ### Individual Projects
@@ -51,9 +36,25 @@ Getting prepared for the ocean of opportunities waiting. -->
     - Novio Business<b>Store appointment Management and Accounts summary</b> (https://play.google.com/store/apps/details?id=com.novioapp.businesses)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en" alt="hrithikrtiwari" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p>
+
+
+
+## Work Experience
+- <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
+    - Network Administration
+    - On-Site Wifi Installation & switches and Hub troubleshooting
+    - Spicing and Slicing (Optical Fibre)
+    - Crimping (LAN Cable)
+- <b>Giri Tutorials, Boisar</b> (August 2018 to April 2019)
+    - Teacher for classes 7 to 10
+    - Maths, Science, Social Studies, English, Marathi, Hindi for 7 & 8 (state board)
+    - English Grammar, Social Science and Maths for 8 & 9 (CBSE board)
+    - Biology and Geometry for 9 & 10(state board)
+- <b>Wekex.com Agency</b> (March 2020 to September 2020)
+    - Junior Android Developer
+    - Developed Novio App for Salon Appointment Booking
+    - Worked on Medical Invoicing Web Application made with Angular 9/10
 
 <!--### Skills 
 ## `API Development`

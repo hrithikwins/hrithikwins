@@ -5,7 +5,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik Tiwari" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en" alt="hrithikrtiwari" /></p>
-<hr color="red" background="green"/>
+<hr/>
 
 ## Current Roles
 - <b>Senior Project Manager at Swift Media Labs</b>: Since October 2020
@@ -17,7 +17,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 - <b>React/Nextjs/Angular10/Vue/Nuxtjs/Svelte/Sapper freelance development</b>
 
 
-
+<hr/>
 ### Individual Projects
 - bbindustriesfamily.in
 - heavenhillagroresort.com
@@ -26,7 +26,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 - swiftmedialabs.com
 - amarathletics.com
 
-
+<hr/>
 ## Group Projects
 - Web Based
     - medical.wekex.com
@@ -34,12 +34,9 @@ Getting prepared for the ocean of opportunities waiting. -->
 - Flutter Android
     - Novio App <b>Salon Booking System</b> (https://play.google.com/store/apps/details?id=com.novioapp.users)
     - Novio Business<b>Store appointment Management and Accounts summary</b> (https://play.google.com/store/apps/details?id=com.novioapp.businesses)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p>
 
-
-
+<hr/>
 ## Work Experience
 - <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
     - Network Administration

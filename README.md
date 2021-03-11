@@ -7,7 +7,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en" alt="hrithikrtiwari" /></p>
 <hr/>
 
-## Current Roles
+### Current Roles
 - <b>Senior Project Manager at Swift Media Labs</b>: Since October 2020
     - Specialization as a scrum Master
     - Increasing productivity through Agile Methodologies
@@ -29,7 +29,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 <hr/>
 
-## Group Projects
+### Group Projects
 - Web Based
     - medical.wekex.com
     - novioapp.com
@@ -40,7 +40,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 <hr/>
 
-## Work Experience
+### Work Experience
 - <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
     - Network Administration
     - On-Site Wifi Installation & switches and Hub troubleshooting

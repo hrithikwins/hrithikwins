@@ -18,6 +18,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 
 <hr/>
+
 ### Individual Projects
 - bbindustriesfamily.in
 - heavenhillagroresort.com
@@ -27,6 +28,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 - amarathletics.com
 
 <hr/>
+
 ## Group Projects
 - Web Based
     - medical.wekex.com
@@ -37,6 +39,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p>
 
 <hr/>
+
 ## Work Experience
 - <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
     - Network Administration

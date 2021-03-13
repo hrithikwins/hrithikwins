@@ -160,5 +160,4 @@ Web API Development
 
 
 ## Some of my tech guides
-- <a href="https://github.com/shiba-kar">Geeky Shiva</a> : My Friend Shiba-Kar also known as devspk (developer's spiker) is very cool and awesome guy, he helped me a lot in inspiring me towards learning Flutter, also my early project collaborations with him helped me improve my front-end designs in a very awesome way.
 - <a href="https://github.com/wekex35">Nirmal Bro</a>: I am very inspired by the awesome working spirit of Nirmal Bro, He encouraged me towards learning Nodejs backend in flutter and also taught me many awesome tips and tricks in coding, he just changed my perspective in coding during my internship at wekex. He is also the founder and CEO of Wekex(Wekend Expo) Company

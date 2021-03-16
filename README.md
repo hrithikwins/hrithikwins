@@ -56,6 +56,11 @@ Getting prepared for the ocean of opportunities waiting. -->
     - Developed Novio App for Salon Appointment Booking
     - Worked on Medical Invoicing Web Application made with Angular 9/10
 
+
+
+Skills
+API Development
+
 <!--### Skills 
 ## `API Development`
 API stands for Application Programming Interface. My API scope is limited to developing for Web, Mobile and Desktop Applications.

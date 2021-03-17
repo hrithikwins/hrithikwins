@@ -13,7 +13,7 @@ Getting prepared for the ocean of opportunities waiting. -->
     - Increasing productivity through Agile Methodologies
     - Flutter for cross platform handheld applications(We are with Flutter 2)
     - React/Nextjs for Web Application Development
-- <b>Flutter freelance developer</b>
+- <b>Flutter freelance developer</b> with Firebase and nodejs/mongodb
 - <b>React/Nextjs/Angular10/Vue/Nuxtjs/Svelte/Sapper freelance development</b>
 
 

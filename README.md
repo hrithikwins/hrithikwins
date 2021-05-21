@@ -2,9 +2,9 @@
 
 Getting prepared for the ocean of opportunities waiting. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik Tiwari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK" alt="hrithik Tiwari" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en" alt="hrithikrtiwari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en&theme=radical" alt="hrithikrtiwari" /></p>
 <hr/>
 
 ### Current Roles
@@ -18,6 +18,8 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 
 <hr/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikrtiwari">
+
 
 ### Individual Projects
 - bbindustriesfamily.in

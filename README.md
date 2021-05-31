@@ -8,20 +8,18 @@ Getting prepared for the ocean of opportunities waiting. -->
 <hr/>
 
 ### Current Roles
-- <b>Senior Project Manager at Swift Media Labs</b>: Since October 2020
-    - Specialization as a scrum Master
+- <b>Tech Lead at Swift Media Labs</b>: Since October 2020
     - Increasing productivity through Agile Methodologies
     - Flutter for cross platform handheld applications(We are with Flutter 2)
     - React/Nextjs for Web Application Development
-- <b>Flutter freelance developer</b> with Firebase and nodejs/mongodb
-- <b>React/Nextjs/Angular10/Vue/Nuxtjs/Svelte/Sapper freelance development</b>
+- <b>React/Nextjs/Angular10/Vue/Nuxtjs/Svelte/Sapper development</b>
 
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikrtiwari">
 
 
-### Individual Projects
+<!-- ### Individual Projects
 - bbindustriesfamily.in
 - heavenhillagroresort.com
 - shalya-natural.vercel.app
@@ -30,18 +28,18 @@ Getting prepared for the ocean of opportunities waiting. -->
 - amarathletics.com
 
 <hr/>
-
-### Group Projects
+ -->
+<!-- ### Group Projects
 - Web Based
     - medical.wekex.com
     - novioapp.com
 - Flutter Android
     - Novio App <b>Salon Booking System</b> (https://play.google.com/store/apps/details?id=com.novioapp.users)
-    - Novio Business<b>Store appointment Management and Accounts summary</b> (https://play.google.com/store/apps/details?id=com.novioapp.businesses)
+    - Novio Business<b>Store appointment Management and Accounts summary</b> (https://play.google.com/store/apps/details?id=com.novioapp.businesses) -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p>
 
 <hr/>
-
+<!-- 
 ### Work Experience
 - <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
     - Network Administration
@@ -57,7 +55,7 @@ Getting prepared for the ocean of opportunities waiting. -->
     - Junior Android Developer
     - Developed Novio App for Salon Appointment Booking
     - Worked on Medical Invoicing Web Application made with Angular 9/10
-
+ -->
 
 
 Skills

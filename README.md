@@ -41,7 +41,7 @@ Getting prepared for the ocean of opportunities waiting. -->
 <hr/>
 <!-- 
 ### Work Experience
-- <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018)
+- <b>SM Online & SIAT(SM Institute of Advanced Learning)</b>( March 2018 to June 2018) 
     - Network Administration
     - On-Site Wifi Installation & switches and Hub troubleshooting
     - Spicing and Slicing (Optical Fibre)

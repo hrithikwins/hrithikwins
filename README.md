@@ -2,7 +2,7 @@
 
 Getting prepared for the ocean of opportunities waiting. -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK" alt="hrithik Tiwari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK" alt="hrithik Tiwari" /> </p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en&theme=radical" alt="hrithikrtiwari" /></p>
 <hr/>

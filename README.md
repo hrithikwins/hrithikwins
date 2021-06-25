@@ -17,6 +17,16 @@ Getting prepared for the ocean of opportunities waiting. -->
 
 <hr/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikrtiwari">
+### Let's Talk tech
+#### Have been doing ..
+- React (State Management with Latest Hooks v17.3 June2021)
+- MongoDB (Had most experience with Atlas, and one such with Node)
+- Nodejs (Runtime)
+- Express Server ( to Create REST APIs)
+
+#### Learning
+- M
+
 
 
 <!-- ### Individual Projects

@@ -46,7 +46,8 @@ Getting prepared for the ocean of opportunities waiting. -->
 - Flutter Android
     - Novio App <b>Salon Booking System</b> (https://play.google.com/store/apps/details?id=com.novioapp.users)
     - Novio Business<b>Store appointment Management and Accounts summary</b> (https://play.google.com/store/apps/details?id=com.novioapp.businesses) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikrtiwari&" alt="hrithikrtiwari" /></p> -->
+<!-- |||||||||||||||||||||||||||||||||||||| LONGEST STREAK CALCULATOR HERE -->
 
 <hr/>
 <!-- 

@@ -175,4 +175,5 @@ Web API Development
 
 
 ## Some of my tech guides
-- <a href="https://github.com/wekex35">Nirmal Bro</a>: I am very inspired by the awesome working spirit of Nirmal Bro, He encouraged me towards learning Nodejs backend in flutter and also taught me many awesome tips and tricks in coding, he just changed my perspective in coding during my internship at wekex. He is also the founder and CEO of Wekex(Wekend Expo) Company
+- <a href="https://github.com/wekex35">Nirmal Bro</a>: I am very inspired by the awesome working spirit of Nirmal Bro, He encouraged me towards learning Nodejs backend in flutter and also taught me many awesome tips and tricks in coding, he just changed my perspective in coding during my internship at wekex. He wakes with Pc and sleeps again with PC. He is so passionate and dedicated that we can't think about it much. He is also the founder and CEO of Wekex(Wekend Expo) Company
+- <a href="https://github.com/piyush2greedy">Piyush Bro</a>: I met Piyush through Nirmal Bro, and now at the moment, it was a wholesome new experience to enter into this field. The tech experience of Piyush is at next level, the second most important thing is his energy level. He is just too energetic and sleeps at most just 4hrs a day.. 

@@ -1,7 +1,7 @@
 <!-- # Hrithik Tiwari - Working with Vision
 
 Getting prepared for the ocean of opportunities waiting. -->
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikrtiwari&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK" alt="hrithik Tiwari" /> </p>  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikrtiwari&show_icons=true&locale=en&theme=radical" alt="hrithikrtiwari" /></p>
@@ -177,3 +177,4 @@ Web API Development
 ## Some of my tech guides
 - <a href="https://github.com/wekex35">Nirmal Bro</a>: I am very inspired by the awesome working spirit of Nirmal Bro, He encouraged me towards learning Nodejs backend in flutter and also taught me many awesome tips and tricks in coding, he just changed my perspective in coding during my internship at wekex. He wakes with Pc and sleeps again with PC. He is so passionate and dedicated that we can't think about it much. He is also the founder and CEO of Wekex(Wekend Expo) Company
 - <a href="https://github.com/piyush2greedy">Piyush Bro</a>: I met Piyush through Nirmal Bro, and now at the moment, it was a wholesome new experience to enter into this field. The tech experience of Piyush is at next level, the second most important thing is his energy level. He is just too energetic and sleeps at most just 4hrs a day.. 
+</center>

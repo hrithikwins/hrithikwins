@@ -1,18 +1,19 @@
-<!-- # Hrithik Tiwari - Working with Vision
 
-Getting prepared for the ocean of opportunities waiting. -->
+![image](https://user-images.githubusercontent.com/42163313/188901598-149555fc-07bd-40c3-bd0f-5109ffbc3d17.png)
+
 <center>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrithikwins&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK" alt="hrithik Tiwari" /> </p>
-<center>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikwins&show_icons=true&locale=en&theme=radical" alt="hrithikwins" /></p>
-</center>
-<hr/>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikwins"></p>
+
+  <table align="center" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hrithikwins&show_icons=true&locale=en&theme=swift&count_private=true" alt="hrithikwins" /></td>
+    <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikwins&theme=graywhite"></td>
+  </tr>
+</table>
 
 
-
-### Education
+#### Education
 - Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th):
   - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
   - Passed out 10th with distinction (9.8 CGPA)
@@ -21,14 +22,14 @@ Getting prepared for the ocean of opportunities waiting. -->
     - June 2018 to May 2021
 <br/>
 
-### School Achievements
+#### School Achievements
 - Two Times Rank Holder in Science Talent Search Examination (STSE held as Interschool Science Quiz)
 - 2nd Prize for Learning 118 Elements of Periodic Table Competition.
 - 1st Prize in Slow Cycling Race in 2018 Chinmaya Sports Events
 
 
 
-## My Mentors
+#### 💻 &nbsp; My Mentors
 -   <a href="https://github.com/wekex35">Nirmal Mandal</a>: He wakes with Pc and sleeps again with PC. He is also the founder and CEO of Wekex(Wekend Expo) Company
 -   <a href="https://github.com/piyush2greedy">Piyush Agarwall</a>: His tech experience is at next level, the second most important thing is his energy level. He is just too energetic and sleeps at most just 4hrs a day..
 </center>

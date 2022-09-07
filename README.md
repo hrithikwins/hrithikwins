@@ -43,7 +43,7 @@
 <a href="https://instagram.com/hrithikwins"><img src="https://img.shields.io/badge/-@hrithikwins-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
-<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Faith is the highest passion in a man</p>&mdash; ʜʀɪᴛʜɪᴋ ᴛɪᴡᴀʀɪ (@hrithikwins) <a href="https://twitter.com/hrithikwins/status/1565319057963827200?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="en" dir="ltr">Faith is the highest passion in a man</p>&mdash; ʜʀɪᴛʜɪᴋ ᴛɪᴡᴀʀɪ (@hrithikwins) <a href="https://twitter.com/hrithikwins/status/1565319057963827200?ref_src=twsrc%5Etfw">September 1, 2022</a>
 
 
 ![bottom_header](https://user-images.githubusercontent.com/42163313/188890959-602be5ee-806c-43ea-b055-cad3b4b567b8.svg)

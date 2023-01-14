@@ -30,14 +30,17 @@
 
 
 #### 💻 &nbsp; My Mentors
--   <a href="https://github.com/wekex35">Nirmal Mandal</a>: He wakes with Pc and sleeps again with PC. He is also the founder and CEO of Wekex(Wekend Expo) Company
--   <a href="https://github.com/piyush2greedy">Piyush Agarwall</a>: His tech experience is at next level, the second most important thing is his energy level. He is just too energetic and sleeps at most just 4hrs a day..
+-   <a href="https://github.com/wekex35">Nirmal Mandal</a>
+-   <a href="https://github.com/piyush2greedy">Piyush Agarwall</a>
 </center>
 
--   <a href="https://github.com/shreyash-jain">Shreyash Jain</a>: From IIT BHU he's got great patience and lots of dedication towards everyone. 
+-   <a href="https://github.com/shreyash-jain">Shreyash Jain</a>
 </center>
 
--   <a href="https://github.com/shreyash-jain">Anoop Garg</a>:He's also from IIT BHU and he's always so down to earth that you can never stop respecting him. 
+-   <a href="https://github.com/shreyash-jain">Anoop Garg</a>
+
+-   <a href="https://github.com/hemansnation">Himanshu Ramchandani</a>
+
 </center>
 
 

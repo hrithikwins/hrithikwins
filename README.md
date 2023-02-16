@@ -31,15 +31,16 @@
 
 #### 💻 &nbsp; My Mentors
 -   <a href="https://github.com/wekex35">Nirmal Mandal</a>
+  
 -   <a href="https://github.com/piyush2greedy">Piyush Agarwall</a>
-</center>
 
 -   <a href="https://github.com/shreyash-jain">Shreyash Jain</a>
-</center>
 
 -   <a href="https://github.com/shreyash-jain">Anoop Garg</a>
 
 -   <a href="https://github.com/hemansnation">Himanshu Ramchandani</a>
+
+-   <a href="https://github.com/karanmittal">Karan Mittal</a>
 
 </center>
 

@@ -44,8 +44,6 @@
 
 -   <a href="https://github.com/shreyash-jain">Shreyash Jain</a>
 
--   <a href="https://github.com/programming-pathshala">Anoop Garg</a>
-
 </center>
 
 

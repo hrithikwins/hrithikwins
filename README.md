@@ -50,10 +50,10 @@
 
 | Training Partners | Squad Members | Supporters | Rivals | Coaches & Mentors | Strategists |
 |-------------------|---------------|------------|--------|---------|-------------|
-|                   |  <a href="https://github.com/karanmittal">Karan Mittal</a>             |            |        | <a href="https://github.com/">Sushil Mishra</a>        |             |
-|                   |   <a href="https://github.com/">Jatin Bhosale</a>              |            |        |     <a href="https://github.com/wekex35">Nirmal Mandal</a>       |             |
-|                   |     <a href="https://github.com/">Vr3n</a>           |            |        |    <a href="https://github.com/piyush2greedy">Piyush Aggarwal</a>      |             |
-|                   |      <a href="https://github.com/">Dzzz</a>      |            |        |   <a href="https://github.com/sml-inc">Sachin Rohilla</a>      |             |
+|                   |  <a href="https://github.com/karanmittal">Karan Mittal</a>             |            |     Mark Zuckerberg   | <a href="https://github.com/">Sushil Mishra</a>        |             |
+|                   |   <a href="https://github.com/">Jatin Bhosale</a>              |            |   Elon Musk     |     <a href="https://github.com/wekex35">Nirmal Mandal</a>       |             |
+|                   |     <a href="https://github.com/">Vr3n</a>           |            |   Sam Altman     |    <a href="https://github.com/piyush2greedy">Piyush Aggarwal</a>      |             |
+|                   |      <a href="https://github.com/">Dzzz</a>      |            |    Satoshi Nakamoto    |   <a href="https://github.com/sml-inc">Sachin Rohilla</a>      |             |
 |                   |    <a href="https://github.com/">Shivansh</a>        |            |        |    <a href="https://github.com/hemansnation">Himanshu Ramchandani</a>     |             |
 |                   |    <a href="https://github.com/">Aman</a>           |            |        |    <a href="https://github.com/shreyash-jain">Shreyash Jain</a>    |             |
 |                   |           |            |        |    <a href="https://github.com/mattbcool">Matt Cool</a>    |             |

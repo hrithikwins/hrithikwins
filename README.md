@@ -22,19 +22,7 @@
 
 
 #### 💻 &nbsp; Coaches
--   <a href="https://github.com/">Sushil Mishra</a>
 
--   <a href="https://github.com/wekex35">Nirmal Mandal</a>
-  
--   <a href="https://github.com/piyush2greedy">Piyush Aggarwal</a>
-  
--   <a href="https://github.com/sml-inc">Sachin Rohilla</a>
- 
--   <a href="https://github.com/hemansnation">Himanshu Ramchandani</a>
-
--   <a href="https://github.com/karanmittal">Karan Mittal</a>
-
--   <a href="https://github.com/shreyash-jain">Shreyash Jain</a>
 
 </center>
 
@@ -44,8 +32,48 @@
 - Special Mention Prize in ICC NIUM Next In 2.0 for creating an innovative tool for Visually Challenged Crickets (Team Parivartan)
 
 
-### 📫 &nbsp; Public Profiles
+-   
 
+-
+  
+-  
+  
+-   
+ 
+-   
+
+-   
+
+-   
+
+
+
+| Training Partners | Squad Members | Supporters | Rivals | Coaches & Mentors | Strategists |
+|-------------------|---------------|------------|--------|---------|-------------|
+|                   |  <a href="https://github.com/karanmittal">Karan Mittal</a>             |            |        | <a href="https://github.com/">Sushil Mishra</a>        |             |
+|                   |   <a href="https://github.com/">Jatin Bhosale</a>              |            |        |     <a href="https://github.com/wekex35">Nirmal Mandal</a>       |             |
+|                   |     <a href="https://github.com/">Vr3n</a>           |            |        |    <a href="https://github.com/piyush2greedy">Piyush Aggarwal</a>      |             |
+|                   |      <a href="https://github.com/">Dzzz</a>      |            |        |   <a href="https://github.com/sml-inc">Sachin Rohilla</a>      |             |
+|                   |    <a href="https://github.com/">Shivansh</a>        |            |        |    <a href="https://github.com/hemansnation">Himanshu Ramchandani</a>     |             |
+|                   |    <a href="https://github.com/">Aman</a>           |            |        |    <a href="https://github.com/shreyash-jain">Shreyash Jain</a>    |             |
+|                   |           |            |        |    <a href="https://github.com/mattbcool">Matt Cool</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/">Michael Morran</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Alex Griggs</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Kieahnzo</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Dom</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">John S</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Gofodor</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Geng</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Imaginer</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">JimC</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">JimC</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Pellinore</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">JTa</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain">Elgin</a>    |             |
+|                   |               |            |        |    <a href="https://github.com/shreyash-jain"></a>    |             |
+
+
+### 📫 &nbsp; Public Profiles
 
 <a href="https://www.linkedin.com/in/hrithikwins/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:javaoncloud14@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;

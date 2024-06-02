@@ -13,23 +13,15 @@
 </table>
 
 
-#### Education
-- Chinmaya Vidyalaya, Tarapur (Jr. KG to 12th):
-  - Chinmaya Vidyalaya is a SWAD(School With A Difference) where I completed my foundational and higher secondary studies.
-  - Passed out 10th with distinction (9.8 CGPA)
-  - Passed out 12th PCM ith Fairly good marks
-- Bachelors From Mumbai University in Information Technology (B.Sc.IT)
-    - June 2018 to May 2021
-<br/>
 
-#### School Achievements
+#### Early Winnings
 - Two Times Rank Holder in Science Talent Search Examination (STSE held as Interschool Science Quiz)
 - 2nd Prize for Learning 118 Elements of Periodic Table Competition.
 - 1st Prize in Slow Cycling Race in 2018 Chinmaya Sports Events
 
 
 
-#### 💻 &nbsp; My Mentors
+#### 💻 &nbsp; Coaches
 -   <a href="https://github.com/">Sushil Mishra</a>
 
 -   <a href="https://github.com/wekex35">Nirmal Mandal</a>
@@ -47,8 +39,12 @@
 </center>
 
 
+#### Later Winnings
+- 1st Runner up in ICC NIUM Next In 1.0 for building an innovative solution (Team Jo Jeeta Wohi Sikandar)
+- Special Mention Prize in ICC NIUM Next In 2.0 for creating an innovative tool for Visually Challenged Crickets (Team Parivartan)
 
-### 📫 &nbsp; How to reach me:
+
+### 📫 &nbsp; Public Profiles
 
 
 <a href="https://www.linkedin.com/in/hrithikwins/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;

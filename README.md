@@ -71,11 +71,6 @@ I'm a versatile **DevOps Engineer** and **Full-Stack Developer** who bridges the
 **Transformational Winnings**
 
 - 1st Runner Up in ICC NIUM Next In 1.0 for an innovative solution
-<p align="center">
-<img width="380em" alt="image" src="https://github.com/user-attachments/assets/461c3767-5de5-4c53-9aec-f5a38c41e984" />
-<img width="500em" alt="image" src="https://github.com/user-attachments/assets/7da41694-4f11-4ecc-9763-d9f93d71c2fc" />
-</p>
-
 ![image](https://github.com/user-attachments/assets/d9eee100-6024-4942-9866-53f1c095bc7a)
 ![image](https://github.com/user-attachments/assets/86b427d6-58aa-49ce-b2e9-115c16a88172)
 

@@ -1,5 +1,6 @@
 ![image](https://user-images.githubusercontent.com/42163313/188901598-149555fc-07bd-40c3-bd0f-5109ffbc3d17.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=hrithikwins&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK)
 ## 🚀 DevOps Engineer | Full-Stack Web Architect | Technology Innovator
 
 I'm a versatile **DevOps Engineer** and **Full-Stack Developer** who bridges the gap between development and operations, specializing in creating scalable, efficient, and innovative technological solutions.
@@ -138,4 +139,3 @@ My passion lies in:
 ![bottom_header](https://user-images.githubusercontent.com/42163313/188890959-602be5ee-806c-43ea-b055-cad3b4b567b8.svg)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=hrithikwins&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK)

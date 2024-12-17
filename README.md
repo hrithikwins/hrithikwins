@@ -82,13 +82,6 @@ I'm a versatile **DevOps Engineer** and **Full-Stack Developer** who bridges the
 
 ![image](https://github.com/user-attachments/assets/1f56ee58-affd-44b4-89c5-838f0445b1dc)
 
-
-**Early Achievements:**
-
-- Two-Time Rank Holder in Science Talent Search Examination
-- 2nd Prize in Learning 118 Elements of Periodic Table Competition
-- 1st Prize in Slow Cycling Race (2018 Chinmaya Sports Events)
-
 **Companies I've Worked For/With**
 
 A lot! 
@@ -115,6 +108,48 @@ My passion lies in:
 - Continuous integration and continuous delivery
 - Performance optimization and system reliability
 - Cloud-native application development
+
+
+
+**Early Achievements:**
+
+- Two-Time Rank Holder in Science Talent Search Examination
+- 2nd Prize in Learning 118 Elements of Periodic Table Competition
+- 1st Prize in Slow Cycling Race
+
+**My First Job**
+2018 - S M Online 
+- Worked closely with Engineers from BSNL & Airtel
+- covering up network connectivity of an entire Region over 5kms Radius
+roles involved smallest tasks like 
+- configuring Routers at homes and offices
+- monitoring the servers
+- crimping wires
+- installing switches at junctions
+to major tasks like 
+- connecting with Airtel & BSNL tech teams
+- climbing over building roofs
+- digging sides of roads to connect optical fibres
+- splicing & spicing of fibers
+
+<i>And More than everything it was about learning from those Engineers who had immense knowledge and Experience</i>
+
+<img src="https://avatars.githubusercontent.com/u/42163313?v=4"/>
+
+## What makes Hrithik stand out from others?
+- Values & Ethics
+- In tough times even if he's losing he keeps trying his best till the last minute
+- He believes in completion & execution not perfection
+- Saying less and doing more
+- and MOST IMPORTANT is that he shows up everyday! since 2017 and still counting
+
+## What are the things that he avoids?
+- Too much planning
+- Pointless Meetings
+- giving commitments to dishonest people
+- working with people who don't value others time!
+
+
 
 ### 📫 Connect With Me
 

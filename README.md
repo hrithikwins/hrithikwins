@@ -1,3 +1,6 @@
+<a href="https://www.digitalocean.com/?refcode=fbf891840808&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+
+
 ![image](https://user-images.githubusercontent.com/42163313/188901598-149555fc-07bd-40c3-bd0f-5109ffbc3d17.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hrithikwins&label=Profile%20views&color=ff0000&style=plastic&label=PEOPLE+INFLUENCED+BY+HRITHIK+-)
@@ -148,6 +151,10 @@ to major tasks like
 - Pointless Meetings
 - giving commitments to dishonest people
 - working with people who don't value others time!
+
+
+If you are looking to get started with Digital Ocean, here's a referral code that gives you $200 for 60 days
+<a href="https://www.digitalocean.com/?refcode=fbf891840808&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 
 
